@@ -1,0 +1,11 @@
+Test ID,Description,Expected Total,Actual Total,Status,Test Category,Test Date
+TC01,2 burgers,$21.20,$21.20,PASS,Basic Functionality,16/11/2024
+TC02,"3 pizzas, 2 pastas, 1 coffee",$42.40,$42.40,PASS,Basic Functionality,16/11/2024
+TC03,2 burgers,$10.60,$10.60,PASS,Discount Application,16/11/2024
+TC04,"99 burgers, 99 pizzas",$1888.92,$1888.92,PASS,Edge Cases,16/11/2024
+TC05,Empty order validation,$0.00,$0.00,PASS,Basic Functionality,16/11/2024
+TC06,"5 salads, 3 juices, 2 ice_creams",$22.79,$22.79,PASS,Discount Application,16/11/2024
+TC07,"3 burgers, 2 pizzas",$48.76,$48.76,PASS,Edge Cases,16/11/2024
+TC08,"3 ice_creams, 5 coffees",$20.14,$20.14,PASS,Edge Cases,16/11/2024
+TC09,"1 burger, 1 pizza, 1 pasta, 1 sandwich, 1 salad, 1 juice, 1 ice_cream, 1 coffee",$47.70,$47.70,PASS,Edge Cases,16/11/2024
+TC10,"1 burger, 1 pizza, 1 pasta, 1 sandwich, 1 salad, 1 juice, 1 ice_cream, 1 coffee",$23.85,$23.85,PASS,Discount Application,16/11/2024
